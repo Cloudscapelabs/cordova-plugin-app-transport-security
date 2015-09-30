@@ -1,0 +1,43 @@
+{
+  "name": "cordova-plugin-app-transport-security",
+  "version": "0.1.0",
+  "author": "Alex Korban",
+  "description": "Cordova Plugin to allow 'Arbitrary Loads' by adding a declaration to the Info.plist file to bypass the iOS 9 App Transport Security",
+  "cordova": {
+    "id": "cordova-plugin-app-transport-security",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SupremumLimit/cordova-plugin-app-transport-security.git"
+  },
+  "keywords": [
+    "cordova",
+    "ios",
+    "app",
+    "security",
+    "transport",
+    "http",
+    "https",
+    "ats",
+    "ssl",
+    "tls",
+    "nsapptransportsecurity",
+    "nsallowsarbitraryloads",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SupremumLimit/cordova-plugin-app-transport-security/issues"
+  },
+  "homepage": "https://github.com/SupremumLimit/cordova-plugin-app-transport-security"
+}
